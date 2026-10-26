@@ -1,1 +1,2 @@
-placeholder
+"Trip_ID","Travel_Date","Origin_City","Origin_Terminal","Destination_City","Destination_Terminal","Transport_Mode","Vehicle_ID","Travel_Period","Weather","Road_Condition","Distance_km","Travel_Time_min","Delay_min","Passenger_Count","Vehicle_Capacity","Fare_per_Passenger_NGN","Total_Revenue_NGN","Fuel_Consumed_L","Operating_Cost_NGN","Payment_Method","Customer_Rating","Trip_Status"
+"TRP-001","2026-01-04","Kano","Nassarawa","Jos","Terminus","BRT","VEH-024","Midday","Clear","Fair","18","35","2","43","70","700","30100","5","7900","Transfer","4.9","On Time"
